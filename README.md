@@ -4,16 +4,16 @@ Este projeto é um aplicativo de login desenvolvido com React Native e Expo.
 
 ## Como executar o aplicativo
 
-### Instalar dependências
+## Instalar dependências
 - npm install
 
-###Abrir o aplicativo
+##Abrir o aplicativo
 
 -Pressione A para abrir no Android.
 
 -Pressione W para abrir no navegador.
 
-###Sobre o projeto
+##Sobre o projeto
 
 -Este aplicativo realiza:
 
