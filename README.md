@@ -7,20 +7,20 @@ Este projeto é um aplicativo de login desenvolvido com React Native e Expo.
 
 ## Abrir o aplicativo
 
--Pressione W para abrir no navegador.
+- Pressione W para abrir no navegador.
 
 ## Sobre o projeto
 
--Este aplicativo realiza:
+### Este aplicativo realiza:
 
--Cadastro de professor
+- Cadastro de professor
 
--Armazenamento local usando AsyncStorage
+- Armazenamento local usando AsyncStorage
 
--Login utilizando os dados cadastrados
+- Login utilizando os dados cadastrados
 
--Exibição de tela logada
+- Exibição de tela logada
 
--Função de logout
+- Função de logout
 
--Interface integrada ao estilo visual do site
+- Interface integrada ao estilo visual do site
